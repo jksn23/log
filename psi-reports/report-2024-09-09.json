@@ -1,35 +1,35 @@
 {
-  "timestamp": "2024-07-01T02:51:06.783Z",
+  "timestamp": "2024-09-09T02:59:14.019Z",
   "reports": [
     {
       "url": "https://mazipan.space/",
       "device": "mobile",
-      "perf": 0.62,
+      "perf": 0.59,
       "fid": 0,
-      "lcp": 3267.44,
+      "lcp": 3342.89,
       "cls": 0.00431,
       "fcp": 3191.99,
       "fci": 0,
-      "tbt": 1169.21,
-      "tti": 7303.15,
+      "tbt": 1616.7,
+      "tti": 7196.15,
       "si": 3191.99,
       "req": 37,
-      "size": 444020
+      "size": 443665
     },
     {
       "url": "https://mazipan.space/",
       "device": "desktop",
-      "perf": 0.98,
+      "perf": 0.95,
       "fid": 0,
-      "lcp": 939.03,
-      "cls": 0.00281,
-      "fcp": 879.01,
+      "lcp": 1268.53,
+      "cls": 0.00023,
+      "fcp": 1056.29,
       "fci": 0,
-      "tbt": 24.5,
-      "tti": 964.13,
-      "si": 879.01,
+      "tbt": 27.48,
+      "tti": 1270.1,
+      "si": 1056.29,
       "req": 39,
-      "size": 524366
+      "size": 523884
     }
   ]
 }
